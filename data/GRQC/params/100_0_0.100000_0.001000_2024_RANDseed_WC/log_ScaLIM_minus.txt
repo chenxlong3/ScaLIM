@@ -1,0 +1,9 @@
+Approx.: 0.984502
+Time (sec): 0.0814288
+Sampling Time (sec): 0.028362
+Sampling Phase 2 Time (sec): 0
+Selection Time (sec): 0.0530668
+Influence: 722.458
+Self-estimated influence: 735.784
+#Edges: 100
+#RR sets: 41984

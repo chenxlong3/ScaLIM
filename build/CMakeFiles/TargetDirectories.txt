@@ -1,0 +1,4 @@
+/root/research_proj/ScaLIM/build/CMakeFiles/rebuild_cache.dir
+/root/research_proj/ScaLIM/build/CMakeFiles/eval_by_mc.dir
+/root/research_proj/ScaLIM/build/CMakeFiles/edit_cache.dir
+/root/research_proj/ScaLIM/build/CMakeFiles/ScaLIM.dir
